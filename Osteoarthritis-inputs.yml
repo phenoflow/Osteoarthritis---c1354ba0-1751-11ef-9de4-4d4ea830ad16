@@ -1,0 +1,87 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/osteoarthritis-excl-spine-joint---primary.py
+inputModule3:
+  class: File
+  path: python/osteoarthritis-excl-spine-osteoarthrosis---primary.py
+inputModule4:
+  class: File
+  path: python/osteoarthritis-excl-spine-specified---primary.py
+inputModule5:
+  class: File
+  path: python/unilateral-osteoarthritis-excl-spine---primary.py
+inputModule6:
+  class: File
+  path: python/osteoarthritis-excl-spine-forearm---primary.py
+inputModule7:
+  class: File
+  path: python/pelvic-osteoarthritis-excl-spine---primary.py
+inputModule8:
+  class: File
+  path: python/osteoarthritis-excl-spine---primary.py
+inputModule9:
+  class: File
+  path: python/primary-osteoarthritis-excl-spine---primary.py
+inputModule10:
+  class: File
+  path: python/arthropathy-osteoarthritis-excl-spine---primary.py
+inputModule11:
+  class: File
+  path: python/osteoarthritis-excl-spine-heberdens---primary.py
+inputModule12:
+  class: File
+  path: python/osteoarthritis-excl-spine-coxarthrosis---primary.py
+inputModule13:
+  class: File
+  path: python/osteoarthritis-excl-spine-ankle---primary.py
+inputModule14:
+  class: File
+  path: python/osteoarthritis-excl-spine-gonarthrosis---primary.py
+inputModule15:
+  class: File
+  path: python/osteoarthritis-excl-spine-polyarthrosis---primary.py
+inputModule16:
+  class: File
+  path: python/osteoarthritis-excl-spine-wrist---primary.py
+inputModule17:
+  class: File
+  path: python/secondary-osteoarthritis-excl-spine---primary.py
+inputModule18:
+  class: File
+  path: python/osteoarthritis-excl-spine-elbow---primary.py
+inputModule19:
+  class: File
+  path: python/osteoarthritis-excl-spine-finger---primary.py
+inputModule20:
+  class: File
+  path: python/multiple-osteoarthritis-excl-spine---primary.py
+inputModule21:
+  class: File
+  path: python/osteoarthritis---primary.py
+inputModule22:
+  class: File
+  path: python/other-osteoarthritis-excl-spine---primary.py
+inputModule23:
+  class: File
+  path: python/osteoarthritis-excl-spine-bouchard---primary.py
+inputModule24:
+  class: File
+  path: python/lower-osteoarthritis-excl-spine---primary.py
+inputModule25:
+  class: File
+  path: python/osteoarthritis-excl-spine-generalised---primary.py
+inputModule26:
+  class: File
+  path: python/osteoarthritis-excl-spine-shoulder---primary.py
+inputModule27:
+  class: File
+  path: python/osteoarthritis-excl-spine-history---primary.py
+inputModule28:
+  class: File
+  path: python/output-cases.py
